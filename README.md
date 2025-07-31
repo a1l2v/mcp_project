@@ -32,7 +32,7 @@ This project demonstrates a simple MCP (Multi-Component Platform) server and cli
 
 - **Start the server:**
   ```sh
-  python server.py
+  mcp dev server.py
   ```
 
 - **Run the client:**

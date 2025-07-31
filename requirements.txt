@@ -1,3 +1,4 @@
 mcp[cli]
 nest_asyncio
 openai
+uv
